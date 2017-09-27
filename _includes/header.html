@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	{% include social_meta.html %}
+	<title>{{ page.title }}</title>
+	<meta name="author" content="Yipster">
+	<meta property="fb:app_id" content="1715604248748845">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:title" content="{{page.title}}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://yipster.co/">
+    <meta property="og:image" content="{{ page.cover }}">
+    <meta property="og:site_name" content="http://yipster.co/">
+
+    <!-- Twitter Cards -->
+    
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <meta name="twitter:site" content="http://yipster.co/{{url}}">
+    <meta name="twitter:title" content="{{page.title}}">
+    <meta name="twitter:description" content="{{page.description}}">
+    <meta name="twitter:creator" content="@yipster0">
+    <meta name="twitter:image:src" content="{{page.twitter_cover}}">
+    <meta name="twitter:domain" content="http://yipster.co/">
+
+	<!-- ========== COMMON STYLES ========== -->
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.css" media="screen">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css" media="screen">
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/ionicons.min.css" media="screen">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/animate-css/animate.min.css" media="screen">
+	
+	<!-- ========== PAGE STYLES ========== -->
+
+	<!-- ========== THEME CSS ========== -->
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" media="screen">
+	<!-- ========== MODERNIZR ========== -->
+	<script src="{{ site.baseurl }}/js/modernizr/modernizr.min.js"></script>
+</head>
+<body class="wide">
+    {% include topnav.html %}
+	<div class="main-wrapper">	
+		<div class="main-wrapper-inner">
+			<section class="content-section mt-2 pt-2">
+		    	<div class="container">
+		        	<div class="row">

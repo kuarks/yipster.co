@@ -1,0 +1,32 @@
+{% raw %}
+
+<div class="col-md-6" v-for="post in posts">                         
+    <article class="card post hentry" v-if="post.title">
+        <div class="st-post-thumb">
+            <img class="card-img-top d-block img-fluid attachment-post-thumbnail size-post-thumbnail wp-post-image" 
+            v-bind:src="post.cover" 
+            v-bind:alt="post.title">
+        </div>
+        <div class="card-block">
+            <header class="entry-header">
+                <h2 class="entry-title card-title">
+                    {{ post.title }}
+                </h2>
+                <div class="entry-meta">
+                    <span class="posted-on meta-span">
+                        <i class="fa fa-calendar-check-o"></i>
+                        <time class="entry-date published">
+                            {{post.fecha}}
+                        </time>
+                    </span>
+                </div>
+            </header>
+            <p class="card-text">
+                {{post.description}} […]
+            </p>
+            <a v-bind:href="post.url" class="btn btn-secondary btn-sm">Leer</a>
+        </div>
+    </article>
+</div>
+
+{% endraw %}

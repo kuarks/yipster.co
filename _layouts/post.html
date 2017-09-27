@@ -1,0 +1,24 @@
+{% include header.html %}
+
+<div class="col article-content">
+	<article class="card post hentry" >
+	    <div class="st-post-thumb">
+            <img class="card-img-top d-block img-fluid attachment-post-thumbnail size-post-thumbnail wp-post-image" src="{{ page.cover }}" alt="{{ page.title }}">
+        </div>
+		<div class="card-block">
+		    <div class="card-block">
+	            <header class="entry-header">
+	                <h2 class="entry-title card-title">{{ page.title }}</h2>
+	                <div class="entry-meta">
+	                    <span class="posted-on meta-span"><i class="fa fa-calendar-check-o"></i><time class="entry-date published" datetime="2017-04-30T19:01:45+00:00">{{ page.fecha }}</time></span>
+	                </div>
+	            </header>
+    		</div>
+		{{ content }}
+		</div>
+	</article>
+</div>
+
+{% include top_footer.html %}
+
+{% include footer.html %}

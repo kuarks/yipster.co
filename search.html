@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Yipster"
+description: "Noticias, guías, reporter y más sobre el mundo de las criptomonedas y el blockchain. Bitcoin, Ethereum, Monero, etc"
+twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1506484574/yipsterco-twitter_xatbdv.jpg"
+cover: "http://res.cloudinary.com/yipster/image/upload/v1506483955/yipster-cover_yguc2u.jpg"
+---
+
+<div id="app" class="col">
+	
+	<div class="row">
+		{% include item.html %}
+	</div>
+	
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.4.2/vue.min.js"></script>
+<script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+
+<script>
+	var client = algoliasearch('OAHFLWO1EX', '09279c351727d75ea23e045c6b19b547');
+	var index = client.initIndex('Yipster');
+
+	var app = document.getElementById('search');
+	var url_string = window.location.href;
+	var url = new URL(url_string);
+	var query = url.searchParams.get("q");
+	
+	index.search(query, {
+		attributesToRetrieve: ['title', 'description', 'fecha', 'url', 'cover'],
+		hitsPerPage: 50
+	}, function searchDone(err, content) {
+		if (err) {
+			console.error(err);
+			return;
+		}
+		
+		var app = new Vue({
+
+			el: '#app',
+
+			data:{
+				posts: []
+			},
+
+			mounted(){
+				this.posts = content.hits;
+			}
+		});
+
+	});
+	
+</script>
