@@ -8,6 +8,7 @@ twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1506530298/china
 categories: noticias 
 tags: ban china bitcoin invertir
 url: "/noticias/2017/09/25/veto-de-china-senal-para-comprar-mas-criptomonedas.html"
+comments: true
 ---
 
 Hace unos días se llevo a cabo uno de las conferencias más  importantes sobre blockchain y criptomonedas y en esta edición tuvimos en el panel a Roger Ver, Charles Hoskinson y Max Kaise como moderador; entre los temas discutidos fue el veto de China a las critomonedas así como el posible futuro del bitcoin o blockchain en general.
