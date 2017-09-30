@@ -2,7 +2,7 @@
 title: "Más de la mitad de las grandes compañías del mundo investigan el potencial del Blockchain"
 layout: post
 fecha: 29 de septiembre del 2017
-description: 
+description: "Se encontró que 6 de cada 10 grandes empresas están considerando seriamente integrar el blockchain en sus sistema o ya están en el proceso de hacerlo."
 categories: noticias
 tags: blockchain investigacion
 cover: "http://res.cloudinary.com/yipster/image/upload/v1506741418/6-of-10-companies-adopting-blockchain_pn3oe0.jpg"
