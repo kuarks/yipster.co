@@ -1,5 +1,5 @@
 ---
-title: Atomic Swap qué son y por que son una excelente noticia.
+title: Atomic Swap qué son y por qué son una excelente noticia.
 layout: post
 fecha: 28 de septiembre del 2017
 description: "Un atomic swap básicamante es una transacción entre dos blockchains distintos sin la necesidad de un tercero como lo son las casas de cambio o exchanges. El concepto es muy simple pero las implicaciones de esto son muy grandes y prometedoras."
