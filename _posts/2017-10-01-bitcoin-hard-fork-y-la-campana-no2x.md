@@ -32,6 +32,11 @@ Este inversionista menciona también que desde su perspectiva la intención fina
 
 Las tensiones son cada vez mayores sin embargo la mayoría de la comunidad se posiciona en contra del SegWit2x; esto no nos garantiza nada pues con toda certeza Roger Ver y el resto seguirán empujando esta división y además tiene el capital para hacerlo.
 
+**Lista de compañías que empujan SegWit2x**
+
+
+https://medium.com/@DCGco/bitcoin-scaling-agreement-at-consensus-2017-133521fe9a77
+
 <div class="card card-inverse card-warning mb-4 text-center">
     <div class="card-block">
 
