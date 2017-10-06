@@ -2,7 +2,7 @@
 title: Una nueva división en Bitcoin es inminente
 layout: post
 fecha: 27 de septiembre del 2017
-description: "Novimebre es el mes en que se prevee la actualización de la red de bitcoin a SegWit2x y es por esta razón que ahora la comunidad ahora se ve muy dividida, incluso  más que hace unos meses cuando surgió Bitcoin Cash."
+description: "Noviembre es el mes en que se prevé la actualización de la red de bitcoin a SegWit2x y es por esta razón que ahora la comunidad ahora se ve muy dividida, incluso  más que hace unos meses cuando surgió Bitcoin Cash."
 categories: noticias
 tags: bitcoin hardfork SegWit2x split
 cover: http://res.cloudinary.com/yipster/image/upload/v1506529937/bitcoin-split_qs3k24.jpg
@@ -10,7 +10,7 @@ twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1506529937/bitcoi
 comments: true
 ---
 
-Novimebre es el mes en que se prevee la actualización de la red de bitcoin a *SegWit2x* y es por esta razón que ahora la comunidad ahora se ve muy dividida, incluso  más que hace unos meses cuando surgió Bitcoin Cash.
+Noviembre es el mes en que se prevé la actualización de la red de bitcoin a *SegWit2x* y es por esta razón que ahora la comunidad ahora se ve muy dividida, incluso  más que hace unos meses cuando surgió Bitcoin Cash.
 
 Para algunos *SegWit2x* es la estrategia de corporativos para tomar el control sobre bitcoin y bien podría ser cierto ya que escudriñando un poco en los eventos sucedidos meses atrás podremos notar que el equipo de desarrolladores de Bitcoin Core (el software original de Bitcoin) no acudieron a ninguna de las reuniones donde se acordaron los cambios en el código así como tampoco lo hicieron las empresas que financiaron Bitcoin Core.
 
