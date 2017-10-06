@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es? NO2X? 
+title: ¿Qué es NO2X? 
 layout: post
 fecha: 1 de octubre del 2017
 description: 'NO2X se refiere a la reciente campaña en contra de la actualización de Bitcoin a SegWit2x o btc1.'
