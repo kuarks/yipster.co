@@ -10,13 +10,13 @@ twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1506741418/6-of-
 comments: true
 ---
 
-Juniper Research, una compañía consultora que se dedica a la investicagión del mercados con potencial crecimiento recientemente a publicado el resultado de una de sus investigaciones sobre el Blockchain.
+Juniper Research, una compañía consultora que se dedica a la investigación del mercados con potencial crecimiento recientemente a publicado el resultado de una de sus investigaciones sobre el Blockchain.
 
 En esta investigación se encontró que 6 de cada 10 grandes empresas están considerando seriamente integrar el blockchain en sus sistema o ya están en el proceso de hacerlo.
 
 Las compañías que ya han comenzado a integrar el blokchain (66%) en sus sistema estiman que para finales del 2018 hayan finalizado con esa tarea.
 
-Las empresas mencionan también que ven mucho potencial pero también algo de riesgo y entre las cosas que destancan como potenciales son:
+Las empresas mencionan también que ven mucho potencial pero también algo de riesgo y entre las cosas que destacan como potenciales son:
 
 - Dinero fiat digital
 - Registro de propiedades
