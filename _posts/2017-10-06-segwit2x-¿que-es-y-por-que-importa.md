@@ -42,6 +42,12 @@ Y esto es SegWit2x. Saca tus propias conclusiones.
 </p>
 
 
+
+
+
+
+<!-- 
+
 **Referencias**
 
 [https://www.lendacademy.com/wu-jihan-blockchain-split/](https://www.lendacademy.com/wu-jihan-blockchain-split/)
@@ -54,5 +60,8 @@ Y esto es SegWit2x. Saca tus propias conclusiones.
 
 [https://www.reddit.com/r/Bitcoin/comments/749ncf/dont_forget_that_jeff_garzik_is_probably_just_the/](https://www.reddit.com/r/Bitcoin/comments/749ncf/dont_forget_that_jeff_garzik_is_probably_just_the/)
 
-[https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/](https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/)
+[https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/](https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/) 
+
+-->
+
 	
