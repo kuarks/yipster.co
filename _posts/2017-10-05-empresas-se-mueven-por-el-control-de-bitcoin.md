@@ -14,6 +14,6 @@ Recientemente en las redes sociales se puede ver una disputa acalorada entre los
 
 El siguiente es un mapa que pretende mostrar visualmente la situación actual de bitcoin, la posición de sus protagonistas así como las empresas a las que pertenecen.
 
-Observa y reflexiona acerca de lo que podría pasar y actua a conciencia.
+Observa y reflexiona acerca de lo que podría pasar y actúa a conciencia.
 
 <img src="http://res.cloudinary.com/yipster/image/upload/v1507246782/site-bitcoin-split_vpm8rr.jpg" alt="Control corporativo sobre Bitcoin" width="100%;">
