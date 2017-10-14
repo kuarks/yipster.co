@@ -2,7 +2,7 @@
 title: Bitcoin para arriba pero ¿por cuanto tiempo?
 layout: post
 fecha: 13 de octubre del 2017
-description: "En estos último días hemos visto subir el valor del bitcoin desaforadamente y muy a pesar de noticias negativas a su alrededor como el veto de los **exchanges** en Rusia, Bitcoin muestra tener una economía sólida y esto es debido a que sus usuarios cada vez se vuelven más inmunes a los ataques de los medios oficiales."
+description: "En estos último días hemos visto subir el valor del bitcoin desaforadamente y muy a pesar de noticias negativas a su alrededor como el veto de los exchanges en Rusia, Bitcoin muestra tener una economía sólida y esto es debido a que sus usuarios cada vez se vuelven más inmunes a los ataques de los medios oficiales."
 cover: "http://res.cloudinary.com/yipster/image/upload/v1507921971/bitcoin-bullish_i7wfdo.jpg"
 twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1507921971/bitcoin-bullish_i7wfdo.jpg"
 categories: opinion 
