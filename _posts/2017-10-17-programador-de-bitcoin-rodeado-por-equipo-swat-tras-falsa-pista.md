@@ -29,7 +29,7 @@ Sí este grupo fue el actor intelectual detrás de este ataque a Jameson Lopp no
 Estamos viendo una creciente manipulación de la información lo que nos habla de un proceso de adoctrinamiento y lo que decidamos hoy afectará el futuro libre del bitcoin. No decidas a la ligera.
 
 
-<img src="http://res.cloudinary.com/yipster/image/upload/v1508270819/Captura_de_pantalla_2017-10-17_a_la_s_13.00.33_dbxyjo.png" alt="">
+<img src="http://res.cloudinary.com/yipster/image/upload/v1508270819/Captura_de_pantalla_2017-10-17_a_la_s_13.00.33_dbxyjo.png" alt="" width="100%">
 
  **Referencia**
 
