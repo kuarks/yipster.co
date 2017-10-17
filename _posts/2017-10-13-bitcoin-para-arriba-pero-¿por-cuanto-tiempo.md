@@ -25,11 +25,11 @@ Sabemos que esta reacción de los usuarios se debe a lo sucedido con la anterior
 
 La oportunidad sí que está latente pero para sacar el mayor provecho de esta deberás tener un plan de acción para cada escenario posible. 
 
-Una de las características del sector de criptomonedas es que es un mercado que se mueve sumamente rápido ya que podemos tener caídas colosales de un par de segundos y viceversa. Por esta razón tu capacidad de actuar debe ser igual manera muy rápida. 
+Una de las características del sector de criptomonedas es que es un mercado que se mueve sumamente rápido ya que podemos tener caídas colosales de un par de segundos y viceversa. Por esta razón tu capacidad de actuar debe ser de igual manera muy rápida. 
 
 Las divisiones se acercan así que toma los debidos cuidados, mantén tu inversión en tu propio wallet si quieres sacar el mayor provecho de esta situación y crea tu plan de acción.
 
-Después de todo este embrollo quizá veamos una caída del precio de bitcoin a los ~$4000 pero sólo para ir con más fuerza hacia arriba.
+Después de todo este embrollo quizá veamos una caída (consolidación) del precio de bitcoin a los ~$4000 pero sólo para ir con más fuerza hacia arriba.
 
 Recuerda que las oportunidades están en todos lados, no mires solamente hacia bitcoin.
 
