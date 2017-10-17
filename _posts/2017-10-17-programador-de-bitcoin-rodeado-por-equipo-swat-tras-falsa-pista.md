@@ -2,11 +2,11 @@
 title: Programador de Bitcoin rodeado por equipo SWAT tras falsa pista
 layout: post
 fecha: 
-description: "Cada vez más miembros de la comunidad se oponen a SegWit2X y lo único que les quedan a los otros grupos, empresas y mineros, es la intimidación y la manipulación mediática."
+description: "Cada vez más miembros de la comunidad se oponen a SegWit2X y lo único que les queda a los otros grupos, empresas y mineros, es la intimidación y la manipulación mediática."
 cover: "http://res.cloudinary.com/yipster/image/upload/v1508273192/jameson-lopp-swat_u8w6go.jpg"
 twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1508273192/jameson-lopp-swat_u8w6go.jpg"
 categories: noticias 
-tags: 
+tags: bitcoin no2x
 comments: true
 ---
 
@@ -20,7 +20,7 @@ Hasta el momento no se ha podido localizar el individuo que realizó la llamada,
 
 Las tensiones en torno a esta cuestión cada vez se tornan más peligrosas y es que hay mucho en juego, más para las empresas que quieren tomar el control sobre bitcoin.
 
-Cada vez más miembros de la comunidad se oponen a SegWit2X y lo único que les quedan a los otros grupos, empresas y mineros, es la intimidación y la manipulación mediática.
+Cada vez más miembros de la comunidad se oponen a SegWit2X y lo único que les queda a los otros grupos, empresas y mineros, es la intimidación y la manipulación mediática.
 
 Un ejemplo de esa manipulación es la realizada por Roger Ver, uno de los grandes ganadores en caso de darse SegWit2x así como promotor de *Bitcoin Cash*. Y es que Roger es dueño de *bitcoin.com*, empresa que actua como medio de desinformación para su propio beneficio, pero también una de las piscinas importantes de bitcoin.
 
