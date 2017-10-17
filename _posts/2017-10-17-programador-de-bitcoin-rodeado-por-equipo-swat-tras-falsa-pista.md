@@ -34,5 +34,5 @@ Estamos viendo una creciente manipulación de la información lo que nos habla d
  **Referencia**
 
 <p>
-     <a href="http://wncn.com/2017/10/16/police-presence-in-durham-neighborhood-following-hostage-call/">Durham man says ‘enemies’ called 911 to report false hostage situation</a>
+     <a href="http://wncn.com/2017/10/16/police-presence-in-durham-neighborhood-following-hostage-call/" target="_blank">Durham man says ‘enemies’ called 911 to report false hostage situation</a>
 </p>
