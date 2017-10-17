@@ -22,7 +22,7 @@ Las tensiones en torno a esta cuestión cada vez se tornan más peligrosas y es 
 
 Cada vez más miembros de la comunidad se oponen a SegWit2X y lo único que les quedan a los otros grupos, empresas y mineros, es la intimidación y la manipulación mediática.
 
-Un ejemplo de esa manipulación es la realizada por Roger Ver, uno de los grandes ganadores en caso de darse SegWit2x así como promotor de *Bitcoin Cash*. Y es Roger, siendo dueño de *bitcoin.com*, empresa que actua como medio de desinformación para su propio beneficio, pero también una de las piscinas importantes de bitcoin.
+Un ejemplo de esa manipulación es la realizada por Roger Ver, uno de los grandes ganadores en caso de darse SegWit2x así como promotor de *Bitcoin Cash*. Y es que Roger es dueño de *bitcoin.com*, empresa que actua como medio de desinformación para su propio beneficio, pero también una de las piscinas importantes de bitcoin.
 
 <img src="http://res.cloudinary.com/yipster/image/upload/v1508273709/Captura_de_pantalla_2017-10-17_a_la_s_14.54.22_bxzocn.png" alt="" width="100%">
 
