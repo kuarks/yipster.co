@@ -1,7 +1,7 @@
 ---
 title: Programador de Bitcoin rodeado por equipo SWAT tras falsa pista
 layout: post
-fecha: 16 de octubre del 2017
+fecha: 17 de octubre del 2017
 description: "Cada vez más miembros de la comunidad se oponen a SegWit2X y lo único que les queda a los otros grupos, empresas y mineros, es la intimidación y la manipulación mediática."
 cover: "http://res.cloudinary.com/yipster/image/upload/v1508273192/jameson-lopp-swat_u8w6go.jpg"
 twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1508273192/jameson-lopp-swat_u8w6go.jpg"
