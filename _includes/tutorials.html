@@ -1,13 +1,6 @@
 <div class="row">
 
-    {% for post in site.posts  %}
-    
-    {% if post.categories contains 'tutorial' %}
-
-    {% else %}
-
-    {% if forloop.index  != 3 %}
-
+    {% for post in site.categories.tutorial %}
     <div class="col-md-6">
         <article class="card post hentry" >
             
@@ -21,7 +14,7 @@
                         
                     <h2 class="entry-title card-title">
                         <a href="{{ site.baseurl }}{{ post.url }}">
-                            {{ post.title }} {{ post.categories }}
+                            {{ post.title }}
                         </a>
                     </h2>
                     <div class="entry-meta">
@@ -39,11 +32,6 @@
         </article>
 
     </div>
-        
-    {% endif %}
-    {% endif %}
-    
-    
 {% endfor %}
 
 </div>
