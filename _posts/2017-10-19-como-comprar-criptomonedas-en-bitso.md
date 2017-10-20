@@ -12,4 +12,4 @@ comments: true
 
 La manera más fácil de comprar Bitcoins en México es quizá a través de la compañía Bitso. Aprende a comprar criptomonedas desde tu cuenta.
 
-<iframe width="80%" src="https://www.youtube.com/embed/_zjE1dOay5Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/XeRbUiWbdrE" frameborder="0" allowfullscreen></iframe>
