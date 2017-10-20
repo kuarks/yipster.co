@@ -3,8 +3,8 @@ title: Ya viene Bitcoin Gold ¿sabes cómo sacar provecho de ello?
 layout: post
 fecha: 20 de octubre del 2017
 description:
-cover: "http://res.cloudinary.com/yipster/image/upload/v1508531251/bitcoin-split-bgold_s9utpc.jpg"
-twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1508531251/bitcoin-split-bgold_s9utpc.jpg"
+cover: "http://res.cloudinary.com/yipster/image/upload/v1508537560/bitcoin-gold_d6pjkw.jpg"
+twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1508537560/bitcoin-gold_d6pjkw.jpg"
 categories: tutorial 
 tags: bitcoin bitcoingold
 comments: true
