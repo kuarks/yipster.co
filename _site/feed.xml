@@ -1,5 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-24T17:24:46-06:00</updated><id>http://localhost:4000/</id><title type="html">Kuarks</title><subtitle>Noticias, tips, tutoriales y guías sobre programación, blockchain y todo tecnología.
-</subtitle><entry><title type="html">Ya viene Bitcoin Gold ¿sabes cómo sacar provecho de ello?</title><link href="http://localhost:4000/tutorial/2017/10/20/ya-viene-bitcoin-gold-sabes-como-sacar-provecho-de-ello.html" rel="alternate" type="text/html" title="Ya viene Bitcoin Gold ¿sabes cómo sacar provecho de ello?" /><published>2017-10-20T00:00:00-06:00</published><updated>2017-10-20T00:00:00-06:00</updated><id>http://localhost:4000/tutorial/2017/10/20/ya-viene-bitcoin-gold-%C2%BFsabes-como-sacar-provecho-de-ello</id><content type="html" xml:base="http://localhost:4000/tutorial/2017/10/20/ya-viene-bitcoin-gold-sabes-como-sacar-provecho-de-ello.html">&lt;p&gt;Una nueva criptomoneda nacerá a partir de Bitcoin en sólo 3 días. Esto quiere decir que quienes tengan inversión en Bitcoin podrían obtener rendimientos extra por esta división.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-31T12:58:17-06:00</updated><id>http://localhost:4000/</id><title type="html">Kuarks</title><subtitle>Noticias, tips, tutoriales y guías sobre programación, blockchain y todo tecnología.
+</subtitle><entry><title type="html">SegWit2x está frito!</title><link href="http://localhost:4000/noticias/2017/10/31/segwit2x-esta-frito.html" rel="alternate" type="text/html" title="SegWit2x está frito!" /><published>2017-10-31T00:00:00-06:00</published><updated>2017-10-31T00:00:00-06:00</updated><id>http://localhost:4000/noticias/2017/10/31/segwit2x-esta-frito</id><content type="html" xml:base="http://localhost:4000/noticias/2017/10/31/segwit2x-esta-frito.html">&lt;p&gt;Como sabemos SegWit2x, en delante B2X, es la campaña propagandística de un grupo de individuos y empresas luchando por hacerse con el nombre de Bitcoin para de esta manera hacer que su propio proyecto basura haga más dinero para ellos.&lt;/p&gt;
+
+&lt;p&gt;Muy a pesar de esto Bitcoin Core (comunidad de Bitcoin que ha dado seguimiento al desarrollo, documentación y marketing) se mantuvo siempre confiado sobre la incapacidad del ataque de alcanzar un riesgo real para Bitcoin, sin embargo para los usuarios nuevos o los no conocedores de la parte técnica-filosófica de Bitcoin han sido momentos de incertidumbre.&lt;/p&gt;
+
+&lt;p&gt;La razón para esta incertidumbre se debió en gran medida a la señalización (sginaling) de los mineros hacia B2X.&lt;/p&gt;
+
+&lt;p&gt;Para enteder mejor que es el “signaling” imagina a un lider pidiendo ayuda a un grupo de individuos, este lider planea asaltar un banco (sí, una analogía tonta pero ignora eso por un momento) así que solicita que alcen la mano quienes estén dispuestos a ayudar con la tarea; esta acción de alzar la mano es el “signaling”, pero como has de saber eso no quiere decir que estos individuos realmente se presenten al asalto.&lt;/p&gt;
+
+&lt;p&gt;85% de los mineros dió la señal de cambiar pero algo que se ha demostrado es que los mineros siguen el dinero. Anteriorment pasó con BCash (o como otros llaman, Bitcoin Cash), los mineros dieron señal pero al final la mayoría se quedó con Bitcoin ¿por qué? por el valor.&lt;/p&gt;
+
+&lt;p&gt;B2X está frito y la razón para esta afirmación es el hecho anterior, los mineros seguirán el dinero y ahora con las noticias recientes sobre CME Group, que birndará Bitcoin como futuros, los mineros no querrán perderse esa oportunidad, no importa cuantas buenas promesas tengan con B2X el precio está en favor de Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;Además que CME Group ha declarado no estar interesado en dar soporte a B2X:&lt;/p&gt;
+
+&lt;p&gt;“We are currently not planning to list Futures on Segwit2x right after the fork”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Referencias&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;https://www.cryptofacilities.com/news/announcing-segwit2x-hard-fork-policy&lt;/p&gt;</content><author><name></name></author><category term="bitcoin" /><category term="segwit2x" /><category term="b2x" /><summary type="html">Como sabemos SegWit2x, en delante B2X, es la campaña propagandística de un grupo de individuos y empresas luchando por hacerse con el nombre de Bitcoin para de esta manera hacer que su propio proyecto basura haga más dinero para ellos.</summary></entry><entry><title type="html">Asegurando tu soberanía financiera</title><link href="http://localhost:4000/noticias/2017/10/25/asegurando-tu-soberania-financiera.html" rel="alternate" type="text/html" title="Asegurando tu soberanía financiera" /><published>2017-10-25T00:00:00-06:00</published><updated>2017-10-25T00:00:00-06:00</updated><id>http://localhost:4000/noticias/2017/10/25/asegurando-tu-soberania-financiera</id><content type="html" xml:base="http://localhost:4000/noticias/2017/10/25/asegurando-tu-soberania-financiera.html">&lt;p&gt;2017 está resultando ser el año de los &lt;strong&gt;forks&lt;/strong&gt;. Primero Bitcoin Cash, después Bitcoin Gold y ahora SegWit2x. Todo esto está resultando en un ecosistema más confuso de lo que ya era puesto que muchos de estos forks lo único que buscan es hacerse con el título del “Bitcoin verdadero”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*XV0XyPiZKySMdmsgA0ct5A.png&quot; alt=&quot;Forks de Bitcoin&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Qué es el “Bitcoin verdadero”?  No creo que sea posible definirlo objetivamente basándonos en métricas recolectadas a través del tiempo de vida de Bitcoin. Sólo desde tu punto de vista es que se puede definir lo que es el “Bitcoin verdadero”, a partir de las reglas en las que estás de acuerdo y cumples.&lt;/p&gt;
+
+&lt;p&gt;Siempre ten en cuenta que todos allá fuera tienen una agenda y todo buscarán manipularte para ellos beneficiarse, esto es en menor o mayor medida verdad. Hay individuos y grupos que quieren mantener Bitcoin descentralizado y su agenda estará llena de actividades con este último objetivo, por otro lado habrá individuos y grupos que lo que quieren es sacar el mayor provecho económico y ellos te dirán cosas con el objetivo de beneficiarse. Tu decides en que grupo entras y apartir de ahí podrás notar cual es el “Bitcoin verdadero” para tí.&lt;/p&gt;
+
+&lt;p&gt;Para &lt;strong&gt;nosotros&lt;/strong&gt; no hay duda de que el Bitcoin verdadero es el que está soportado por desarrolladores de calidad como los son los miembros de Bitcoin Core ¿quién si no ellos ha mantenido el ecosistema intacto y operando por  9 años  ya? La filosofía, siendo la parte más importante de Bitcoin y sigue su línea original (un sistema a prueba de censura), muy a pesar de los ataques propagandísticos que dicen todo lo contrario incluso usando palabras de Satoshi Nakamoto (irónicamente para sus fines de centralización).&lt;/p&gt;
+
+&lt;p&gt;Con toda esta guerra lo único que es verdad es el riesgo para ti como usuario de perder por tomar una mal desición.&lt;/p&gt;
+
+&lt;p&gt;¿Cómo me preparo para mitigar este riesgo?&lt;/p&gt;
+
+&lt;p&gt;Nos encontramos ante una situación totalmente distinta a la que se presentó con Bitcoin Cash puesto que con SegWit2x hay un riesgo muy grande de perder tu dinero debido a que el equipo de programadores de SegWit2x ha omitido una medida de seguridad llamada &lt;strong&gt;Replay Protection&lt;/strong&gt;. Cuando una división sucede y surge una nueva criptomoneda, estas ya no deberían aceptar como válidas las transacciones de una y otra, para eso se usa el mecanismo de Replay Protection, ¿ves lo importante de esto? (Bitcoin Cash no fue un problema por que en su código sí se implemento RP)&lt;/p&gt;
+
+&lt;p&gt;Esta omisión tiene razones políticas, ellos quieren coronarse como el “Bitcoin verdadero” y por eso no agregarán RP. La cadena original de Bitcoin no implementa RP puesto que es es la original, no tendría qué (los forks surgen de esta y no al contrario), sin embargo hay grupos que empujan por que la cadena original implemente RP pero de hacerlo así esto sería usado de argumento en su contra para decir que esa cadena, por haber implementado RP, es un Fork y no el Bitcoin original.&lt;/p&gt;
+
+&lt;p&gt;Hay 2 posiciones en esto, pro SegWit2X y Bitcoin SegWit (original), tu deberás analizar la situación por tu cuenta para poder discernir cual Bitcoin es el “verdadero” y apartir de ahí tomar tus medidas de seguridad ¿por qué? por que si te decides por uno u otro tu dinero se quedará con ese cadena, ya sea Bitcoin SegWit o SegWit2x, el riesgo es que la cadena que sea vista como la versión falsa de Bitcoin perderá su valor de inmmediato.&lt;/p&gt;
+
+&lt;p&gt;Aquí podrás ver una lista de las compañías a favor de la cadena &lt;strong&gt;original de Bitcoin&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;http://nob2x.org/&lt;/p&gt;
+
+&lt;p&gt;Esta otras es una lista de las empresas que están a favor de &lt;strong&gt;SegWit2x&lt;/strong&gt; dónde debo destacar &lt;strong&gt;Bitso&lt;/strong&gt; puesto que estamos en México.&lt;/p&gt;
+
+&lt;p&gt;https://bitcoin.org/en/alert/2017-10-09-segwit2x-safety&lt;/p&gt;
+
+&lt;p&gt;En cuanto a Bitso lo único que sabemos al momento es que ellos darán soporte SegWit2x pero no sabemos de que manera, si como altcoin o como la versión oficial de Bitcoin y de ser así no sabemos que soporte darán a Bitcoin (original), como altcoin y de plano no aceptarlo.&lt;/p&gt;
+
+&lt;p&gt;¿De qué lado estarás cuando se de la separación de Bitcoin y B2X?&lt;/p&gt;</content><author><name></name></author><category term="hardfork" /><category term="SegWit2x" /><category term="bitcoin" /><summary type="html">2017 está resultando ser el año de los forks. Primero Bitcoin Cash, después Bitcoin Gold y ahora SegWit2x. Todo esto está resultando en un ecosistema más confuso de lo que ya era puesto que muchos de estos forks lo único que buscan es hacerse con el título del “Bitcoin verdadero”.</summary></entry><entry><title type="html">Ya viene Bitcoin Gold ¿sabes cómo sacar provecho de ello?</title><link href="http://localhost:4000/tutorial/2017/10/20/ya-viene-bitcoin-gold-sabes-como-sacar-provecho-de-ello.html" rel="alternate" type="text/html" title="Ya viene Bitcoin Gold ¿sabes cómo sacar provecho de ello?" /><published>2017-10-20T00:00:00-06:00</published><updated>2017-10-20T00:00:00-06:00</updated><id>http://localhost:4000/tutorial/2017/10/20/ya-viene-bitcoin-gold-%C2%BFsabes-como-sacar-provecho-de-ello</id><content type="html" xml:base="http://localhost:4000/tutorial/2017/10/20/ya-viene-bitcoin-gold-sabes-como-sacar-provecho-de-ello.html">&lt;p&gt;Una nueva criptomoneda nacerá a partir de Bitcoin en sólo 3 días. Esto quiere decir que quienes tengan inversión en Bitcoin podrían obtener rendimientos extra por esta división.&lt;/p&gt;
 
 &lt;p&gt;¿Cómo sucede esto?&lt;/p&gt;
 
@@ -149,45 +197,4 @@
 
 [https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/](https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/) 
 
---&gt;</content><author><name></name></author><category term="segwit2x" /><category term="bitcoin" /><category term="criptomoneda" /><summary type="html">La historia de SegWit2x es una historia por el control de Bitcoin, hay muchas cuestiones técnicas pero estas sólo buscan alejarnos de la verdadera intención que pretende esta actualización del protocolo.</summary></entry><entry><title type="html">Empresas se mueven por el control de bitcoin</title><link href="http://localhost:4000/noticias/2017/10/05/empresas-se-mueven-por-el-control-de-bitcoin.html" rel="alternate" type="text/html" title="Empresas se mueven por el control de bitcoin" /><published>2017-10-05T00:00:00-06:00</published><updated>2017-10-05T00:00:00-06:00</updated><id>http://localhost:4000/noticias/2017/10/05/empresas-se-mueven-por-el-control-de-bitcoin</id><content type="html" xml:base="http://localhost:4000/noticias/2017/10/05/empresas-se-mueven-por-el-control-de-bitcoin.html">&lt;p&gt;Recientemente en las redes sociales se puede ver una disputa acalorada entre los miembros de la comunidad de Bitcoin y es que nos encontramos a un mes de la posible actualización del código el cual se teme permita a corporativos tomar el control sobre el protocolo.&lt;/p&gt;
-
-&lt;p&gt;El siguiente es un mapa que pretende mostrar visualmente la situación actual de bitcoin, la posición de sus protagonistas así como las empresas a las que pertenecen.&lt;/p&gt;
-
-&lt;p&gt;Observa y reflexiona acerca de lo que podría pasar y actúa a conciencia.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://res.cloudinary.com/yipster/image/upload/v1507327541/Bitcoin_en_guerra_v1.2_k7cr2a.jpg&quot; alt=&quot;Control corporativo sobre Bitcoin&quot; width=&quot;100%;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="bitcoin" /><category term="NO2X" /><category term="segwit2x" /><summary type="html">Recientemente en las redes sociales se puede ver una disputa acalorada entre los miembros de la comunidad de Bitcoin y es que nos encontramos a un mes de la posible actualización del código el cual se teme permita a corporativos tomar el control sobre el protocolo.</summary></entry><entry><title type="html">¿Qué es NO2X?</title><link href="http://localhost:4000/noticias/2017/10/01/bitcoin-hard-fork-y-la-campana-no2x.html" rel="alternate" type="text/html" title="¿Qué es NO2X?" /><published>2017-10-01T00:00:00-06:00</published><updated>2017-10-01T00:00:00-06:00</updated><id>http://localhost:4000/noticias/2017/10/01/bitcoin-hard-fork-y-la-campana-no2x</id><content type="html" xml:base="http://localhost:4000/noticias/2017/10/01/bitcoin-hard-fork-y-la-campana-no2x.html">&lt;p&gt;NO2X se refiere a la reciente campaña en contra de la actualización de Bitcoin a SegWit2x o btc1. Si no has estado pendiente o eres nuevo en la comunidad esto no te sonará nada familiar; es todo un drama y es toda una historia por sí misma, pero lo que debes saber, sin meternos en detalles, es que es una adición al código para “mejorar el rendimiento de las transacciones”.&lt;/p&gt;
-
-&lt;p&gt;Twitter es una batalla campal entre los líderes de ambas posiciones protagonizado por Charlie Lee uno de los primeros activistas del Bitcoin, creador de Litecoin y quien está en contra de SegWit2x, promotor de la campaña NO2X (su creador es @StopAndDecrypt); y por otro lado Roger Ver, inversionista también pionero del blockchain.&lt;/p&gt;
-
-&lt;p&gt;Ambos individuos son muy reconocidos en este ámbito.&lt;/p&gt;
-
-&lt;p&gt;Algunos de los puntos por los que una parte de la comunidad está en contra:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;SegWitx1 no está implementado al 100% por tanto no se necesita SegWit2x.&lt;/li&gt;
-  &lt;li&gt;Es más importante mantener la decentralización, la resistencia a la censura si es que quiere sobrevivir los ataques de los gobiernos.&lt;/li&gt;
-  &lt;li&gt;Por el motivo de que una medida de seguridad como &lt;strong&gt;replay protection&lt;/strong&gt; no esta añadida al código de &lt;strong&gt;btc1&lt;/strong&gt; esto ocasionaría un caos en las transacciones y el daño a bitcoin podría ser severo. En caso de que se bifurque bitcoin se crearía otra moneda y sin esta protección las transacciones realizadas entre una y otra podrían cruzarse como si fuesen la misma red… ya te podrás imaginar las consecuencias de eso.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Los puntos anteriores son enlistados por un socio inversionista de ShapeShift, compañía de Erik Voorhees, una de las personas que empuja SegWit2x y que a su vez también recibió inversión de Roger Ver. ¿Puedes ver más clara la foto?&lt;/p&gt;
-
-&lt;p&gt;Este inversionista menciona también que desde su perspectiva la intención final de SW2X no es otra más que remover al equipo de desarrolladores (Bictoin Core), “no hay otro grupo (Bitcoin Core) que tenga toda esa masa crítica y habilidad técnica para poder liderar el desarrollo de Bitcoin”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://res.cloudinary.com/yipster/image/upload/v1506925024/bnktothefuture_bzmtce.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Las tensiones son cada vez mayores sin embargo la mayoría de la comunidad se posiciona en contra del SegWit2x; esto no nos garantiza nada pues con toda certeza Roger Ver y el resto seguirán empujando esta división y además tiene el capital para hacerlo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lista de compañías que empujan SegWit2x&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;https://medium.com/@DCGco/bitcoin-scaling-agreement-at-consensus-2017-133521fe9a77&lt;/p&gt;
-
-&lt;div class=&quot;card card-inverse card-warning mb-4 text-center&quot;&gt;
-    &lt;div class=&quot;card-block&quot;&gt;
-
-        &lt;p&gt;¿Quieres saber cómo proceder con esta posible división, evitar riesgos y sacar el mejor provecho?&lt;/p&gt;
-        &lt;p&gt;
-        Suscríbete a nuestro newsletter para recibir nuestras guías y reportes.
-        &lt;/p&gt;
-        &lt;a href=&quot;#mc-embedded-subscribe-form&quot; class=&quot;btn btn-primary bg-black&quot;&gt;Suscribirme&lt;/a&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="bitcoin" /><category term="marketcap" /><summary type="html">NO2X se refiere a la reciente campaña en contra de la actualización de Bitcoin a SegWit2x o btc1. Si no has estado pendiente o eres nuevo en la comunidad esto no te sonará nada familiar; es todo un drama y es toda una historia por sí misma, pero lo que debes saber, sin meternos en detalles, es que es una adición al código para “mejorar el rendimiento de las transacciones”.</summary></entry></feed>
+--&gt;</content><author><name></name></author><category term="segwit2x" /><category term="bitcoin" /><category term="criptomoneda" /><summary type="html">La historia de SegWit2x es una historia por el control de Bitcoin, hay muchas cuestiones técnicas pero estas sólo buscan alejarnos de la verdadera intención que pretende esta actualización del protocolo.</summary></entry></feed>
