@@ -22,7 +22,7 @@ Para enteder mejor que es el "signaling" imagina a un lider pidiendo ayuda a un 
 
 85% de los mineros dió la señal de cambiar pero algo que se ha demostrado es que los mineros siguen el dinero. Anteriorment pasó con BCash (o como otros llaman, Bitcoin Cash), los mineros dieron señal pero al final la mayoría se quedó con Bitcoin ¿por qué? por el valor.
 
-B2X está frito y la razón para esta afirmación es el hecho anterior, los mineros seguirán el dinero y ahora con las noticias recientes sobre CME Group, que birndará Bitcoin como futuros, los mineros no querrán perderse esa oportunidad, no importa cuantas buenas promesas tengan con B2X el precio está en favor de Bitcoin. 
+B2X está frito y la razón para esta afirmación es el hecho anterior, los mineros seguirán el dinero y ahora con las noticias recientes sobre CME Group, que brindará Bitcoin como futuros, los mineros no querrán perderse esa oportunidad, no importa cuantas buenas promesas tengan con B2X el precio está en favor de Bitcoin. 
 
 Además que CME Group ha declarado no estar interesado en dar soporte a B2X:
 
