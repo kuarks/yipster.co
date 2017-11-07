@@ -2,11 +2,11 @@
 title: "Vulnerabilidad en Ethereum, de nuevo!"
 layout: post
 fecha: 7 de noviembre del 2017
-description: "Parity Tech acaba de hacer de conocimiento público una "vulnerabilidad" encontrada en su wallet multisig y la causa de este error son los "contratos inteligentes" (smart contracts, CI a partir de ahora) de Ethereum."
+description: Parity Tech acaba de hacer de conocimiento público una "vulnerabilidad" encontrada en su wallet multisig y la causa de este error son los "contratos inteligentes" (smart contracts, CI a partir de ahora) de Ethereum. 
 cover: "http://res.cloudinary.com/yipster/image/upload/v1510076012/ethereum-vulnerability_cq9e8g.jpg"
 twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1510076012/ethereum-vulnerability_cq9e8g.jpg"
 categories: noticias 
-tags: ethereum vulnerabilidad solidity 
+tags: ethereum vulnerabilidad solidity
 comments: true
 ---
 
