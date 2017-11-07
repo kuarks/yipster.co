@@ -16,7 +16,7 @@ La compañía ha congelado los bienes de sus clientes mientras logran reparar la
 
 A primera vista podemos pensar que el problema se encuentra en el código de la compañía y es cierto pero la realidad es que el mayor problema se encuentra en Ethereum o más específicamente, en sus CI y el lenguaje usado para crearlos.
 
-Esta no es la primera vez que sucede (¿recuerdas el DAO?) y seguro no será la última y la razón para esto son los CI de Ethereum, no están listos para usarse en producción, quizá nunca lo estén de seguir por el mismo camino.
+Esta no es la primera vez que sucede (¿recuerdas el DAO?) y seguro no será la última y la razón para esto son los propios CI de Ethereum, no están listos para usarse en producción, quizá nunca lo estén de seguir por el mismo camino.
 
 El gran problema está en el lenguaje usado para crear los CI y es que este pretende facilitar la creación de los CI  dejando de lado la seguridad (es muy difícil tener ambos a la vez).
 
